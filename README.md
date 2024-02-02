@@ -1,4 +1,4 @@
-
+~~~
 Создаём пользователя otusadm и otus:
 [root@pam ~]# sudo useradd otusadm && sudo useradd otus
 
@@ -75,6 +75,6 @@ Connection to 192.168.57.10 closed.
 root@Ubuntu:~# ssh otus@192.168.57.10
 otus@192.168.57.10's password: 
 Permission denied, please try again.
-
+~~~
 
 
